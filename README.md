@@ -3,4 +3,4 @@
 É um dos projetos proposto pelo curso do <b>Devclub<b>. Foram ultilizados as ferramentas HTML,CSS e JavaScript.
 
 
-Pode-se clicar <a href="https://github.com/Carlos-jp385/Dado-da-Sorte/new/main?filename=README.md"> aqui </a> para acessar o projeto hospedado
+Pode-se clicar <a href="http://127.0.0.1:5500/index.html"> aqui </a> para acessar o projeto hospedado
